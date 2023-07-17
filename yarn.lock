@@ -1401,22 +1401,22 @@
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@yarnpkg/lockfile/-/lockfile-1.1.0.tgz#e77a97fbd345b76d83245edcd17d393b1b41fb31"
 
-"@yumyumswap/contract-core@4.0.1", "@yumyumswap/contract-core@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@yumyumswap/contract-core/-/contract-core-4.0.1.tgz#a43db2a33c0ed5369e693581eaf1dcbe257cbf68"
-  integrity sha512-wNsf1SHs0mxb7ErI25Tou1yayJe3Ds6qm/uyuJXgodsE3AZYEsjUTuSYvS5tP+/Npc6NYnEKNLixLOeIQvwg6Q==
+"@yumyumswap/contract-core@5.0.1", "@yumyumswap/contract-core@^5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@yumyumswap/contract-core/-/contract-core-5.0.1.tgz#b9359674b335eef60525493ec60a696a3841208f"
+  integrity sha512-Lso9DJeIlD7+ve9J4BO1XNW1RAXN39FLQZArBCl7HjxGcDN9QfsvDmFV20r3Bt5eyKpQSapjkIz/5XQfr9MdFQ==
   dependencies:
     dotenv "^16.0.3"
 
-"@yumyumswap/contract-periphery@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@yumyumswap/contract-periphery/-/contract-periphery-4.0.2.tgz#e8ebcb5c58435020047c9ce66e8ff79e18c940cf"
-  integrity sha512-+9s2muTj8eabniseyeJ+VXNoNjkVzPlPzCNQrZ8q8swg41ikDVc+RYHm82fGtP9W1aiSg+1ZRJyIdvi5O08v3g==
+"@yumyumswap/contract-periphery@5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@yumyumswap/contract-periphery/-/contract-periphery-5.0.2.tgz#3c4fa35f584533c5f40de9d1aa6c04bc1e155adc"
+  integrity sha512-6ug6deF3X+6rEVlnYYZ0fmCL/Ra6jIMqORfyrKKArbXNHH81G0dlDzlTQvQ84/2LK61rf2GQ4YWjxZsY35uA6Q==
   dependencies:
     "@openzeppelin/contracts" "3.4.2-solc-0.7"
     "@uniswap/lib" "^4.0.1-alpha"
     "@uniswap/v2-core" "1.0.1"
-    "@yumyumswap/contract-core" "4.0.1"
+    "@yumyumswap/contract-core" "5.0.1"
     base64-sol "1.0.1"
     dotenv "^16.0.3"
 
